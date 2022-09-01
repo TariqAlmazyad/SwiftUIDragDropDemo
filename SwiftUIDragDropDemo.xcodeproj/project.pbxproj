@@ -11,6 +11,7 @@
 		BA69D94228C128730087D2FE /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA69D94128C128730087D2FE /* ContentView.swift */; };
 		BA69D94428C128740087D2FE /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BA69D94328C128740087D2FE /* Assets.xcassets */; };
 		BA69D94728C128740087D2FE /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BA69D94628C128740087D2FE /* Preview Assets.xcassets */; };
+		BA69D94E28C128880087D2FE /* Model.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA69D94D28C128880087D2FE /* Model.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		BA69D94128C128730087D2FE /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		BA69D94328C128740087D2FE /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		BA69D94628C128740087D2FE /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		BA69D94D28C128880087D2FE /* Model.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Model.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				BA69D93F28C128730087D2FE /* SwiftUIDragDropDemoApp.swift */,
 				BA69D94128C128730087D2FE /* ContentView.swift */,
+				BA69D94D28C128880087D2FE /* Model.swift */,
 				BA69D94328C128740087D2FE /* Assets.xcassets */,
 				BA69D94528C128740087D2FE /* Preview Content */,
 			);
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				BA69D94E28C128880087D2FE /* Model.swift in Sources */,
 				BA69D94228C128730087D2FE /* ContentView.swift in Sources */,
 				BA69D94028C128730087D2FE /* SwiftUIDragDropDemoApp.swift in Sources */,
 			);
